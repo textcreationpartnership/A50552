@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at White-Hall, July 5. 1691 by Richard Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50552</idno>
+            <idno type="STC">Wing M1630</idno>
+            <idno type="STC">ESTC R9794</idno>
+            <idno type="EEBO-CITATION">12925954</idno>
+            <idno type="OCLC">ocm 12925954</idno>
+            <idno type="VID">95522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 989:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at White-Hall, July 5. 1691 by Richard Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95522:1" rendition="simple:additions"/>
+            <p>SERMON Preached before the QUEEN, AT WHITE-HALL, <hi>J<g ref="char:V">Ʋ</g>LY</hi> 5. 1691.</p>
+            <p>By <hi>R. Meggott,</hi> D. D. Dean of <hi>Wincheſter,</hi> and Chaplain to Their Majeſties.</p>
+            <p>
+               <hi>Publiſhed by Her Maieſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard. MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95522:2"/>
+            <pb n="1" facs="tcp:95522:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>I. Epiſtle of S.</hi> John <hi>3.20.</hi>
+                  </bibl>
+                  <p>For if our heart condemn us, God is greater than our heart, and knoweth all things.</p>
+               </q>
+            </epigraph>
+            <p>ONE would be apt to think, that we of our Profeſſion ſhould not ſpeak with ſo little effect as gene<g ref="char:EOLhyphen"/>rally we do, conſidering the Matter and Sub<g ref="char:EOLhyphen"/>ſtance of our Meſſage. We exhort you to nothing, but that which you your ſelves (as oft as you are ſerious) judge meet and neceſſary: reprove you for nothing, but that for which even your own ingenuity doth ſo too, and cannot but confeſs you are
+<pb n="2" facs="tcp:95522:3"/>to blame for. The things are all ſo equal and reaſonable, that not only the Modeſt and Vertuous, but the very Looſeſt and Wildeſt ſort of People are not without re<g ref="char:EOLhyphen"/>grets and reluctancies in their violations of them.</p>
+            <p>
+               <hi>What aileth thee O thou Sea, that thou flyeſt!</hi> We ſee no affections or paſſions in any of the other Creatures but what have ſome foundation: it is not for nothing that the Hare runneth at the ſight of the Dog, or the Lamb trembleth at the approach of the Wolf: ſo that if thoſe horrors for evil actions, that are woven into our con<g ref="char:EOLhyphen"/>ſtitutions, ſhould be in vain and without any ground; it would have been an error and miſcarriage in our very Creation: which, ſeeing we cannot in the leaſt diſcover in any of the reſt of the works of God, (but that <hi>in wiſdom he hath founded them all</hi>) why ſhould we ſuſpect and miſtruſt it here?</p>
+            <p>We may much rather conclude, that he who hath given inſtincts to Birds, Beaſts, Fiſhes, proper and uſeful for the preſervati<g ref="char:EOLhyphen"/>on of themſelves from miſchief, hath placed Conſcience in the immortal part of man for
+<pb n="3" facs="tcp:95522:3"/>the ſame end: namely, to forewarn him of the things that tend to his eternal ruine.</p>
+            <p>Let no one then deſpiſe theſe involuntary throbbings and recoilings of his heart upon the irregularities of his converſation; they are not the products of a childiſh or artificial ſuperſtition, but the prognoſticks of a real danger. How elſe ſhould come ſuch conſter<g ref="char:EOLhyphen"/>nations in our minds, at things ſo agreeable to our inclinations? If our Spirits upon ſuch occaſions ſpeak not <hi>good things concerning us but evil,</hi> it is but what they have <hi>firſt receiv<g ref="char:EOLhyphen"/>ed from the</hi> Lord; if they accuſe and caſt us, whatſoever they <hi>bind on earth is bound in hea<g ref="char:EOLhyphen"/>ven:</hi> They are but the Eccho's of that ſen<g ref="char:EOLhyphen"/>tence, which the Judge of all the world (whoſe Deputies they are) at that time doth paſs on us: and therefore if theſe have ought againſt us, we may be aſſured he hath much more. This is the Doctrine our Apoſtle de<g ref="char:EOLhyphen"/>livereth in the Text, <hi>if our heart condemn us God is greater than our heart and knoweth all things.</hi>
+            </p>
+            <p>In which words, here are two practical truths to be took notice of,</p>
+            <p>
+               <pb n="4" facs="tcp:95522:4"/>
+The <hi>One</hi> is <hi>ſuppoſed</hi> and this is, that we cannot but diſapprove of our ſelves, when we take to, and go on in, any ſinful courſes <hi>our own hearts forbear not to condemn us for them.</hi>
+            </p>
+            <p>The <hi>Other</hi> is <hi>aſſerted,</hi> and this is, that if our hearts do condemn us, ſo long as we a<g ref="char:EOLhyphen"/>bide in that ſtate, we can expect nothing but to be condemned of God alſo. He <hi>is greater than our hearts, and knoweth all things.</hi>
+            </p>
+            <p>That which I would firſt propound to your conſideration is what is here <hi>ſuppoſed.</hi> That we cannot but diſapprove of our ſelves, when we take to, and go on in, any ſinful courſes. <hi>Our own hearts forbear not to condemn us for them.</hi> I need not tell you that the word <hi>heart</hi> in Scripture is not ordinarily to be underſtood <hi>literally</hi> of that part of our <hi>bo<g ref="char:EOLhyphen"/>dy</hi> called ſo, but <hi>metaphorically</hi> of the powers of the <hi>Soul.</hi> In this ſence, it is ſometimes put for the <hi>underſtanding,</hi> ſo Rom. 1.21. <hi>their fooliſh heart was darkned.</hi> Sometimes for the <hi>will,</hi> ſo Mat. 22.37. <hi>Thou ſhalt love the Lord thy God with all thy heart.</hi> Sometimes for the <hi>memory,</hi> ſo Pſalm 119.11. <hi>Thy word I have hid in my heart.</hi> Sometimes for the <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi>
+               <pb n="5" facs="tcp:95522:4"/>ſo <hi>Eccleſ.</hi> 7.22. <hi>Thine own heart knoweth alſo that thou thy ſelf haſt curſed o<g ref="char:EOLhyphen"/>thers.</hi> And in this laſt acceptation you are to take it here that <hi>our heart condemneth us,</hi> that is in the Hebrew way of ſpeaking, which St. <hi>John</hi> uſeth, and hath no preciſe, peculiar word for it, <hi>our Conſciences.</hi> Not that you are to conceive of this as a diſtinct being of it ſelf, ſubſiſting ſeparate from any of theſe faculties I have mentioned (that were as fantaſtick as to imagine death to be a perſon) but the operation and reſult of theſe in conjunction, about our moral acti<g ref="char:EOLhyphen"/>ons. So it is, that when they are evil and unjuſtifiable, we cannot reflect on them with<g ref="char:EOLhyphen"/>out inquietude and diſſatisfaction.</p>
+            <p>Among mankind ſome are <hi>Fools,</hi> and ſome are <hi>Lunaticks;</hi> by the ſame means and in the ſame meaſure, that a man may be with<g ref="char:EOLhyphen"/>out <hi>Reaſon,</hi> he may be without <hi>Conſcience</hi> too: but when ever this is whole and ſound, the other abideth ſo alſo. It is as natural to us as that is, being indeed, but the maxims and the uſe of it.</p>
+            <p>The whole element of Fire may as ſoon be quenched by the ſpitting of a Child; or
+<pb n="6" facs="tcp:95522:5"/>the Wind blow out the light of the Sun that ruleth the day; as any violence or ſophiſtry, as long as we are our ſelves be able to ex<g ref="char:EOLhyphen"/>tinguiſh it.</p>
+            <p>I grant it doth not conſtantly make the ſame noiſe in us<g ref="char:punc">▪</g> Sometimes it is as the ala<g ref="char:EOLhyphen"/>rum of a <hi>Clock,</hi> that goeth aloud, and wa<g ref="char:EOLhyphen"/>keth us with its warnings: at other times, as the hand of the <hi>Dyal,</hi> that pointeth ſilently to the figure without ſtriking: but either as one or t'other, here it is immovably fixed in every one of us, to record and judge our actions. The <hi>high</hi> as well as the <hi>low,</hi> the <hi>gay</hi> as well as the <hi>melancholy,</hi> the <hi>bold</hi> as well as the <hi>timerous,</hi> have its company. No <hi>greatneſs</hi> can <hi>daunt</hi> it, no <hi>pleaſures</hi> can <hi>charm</hi> it, no <hi>advantages</hi> can <hi>bribe</hi> it, from perform<g ref="char:EOLhyphen"/>ing its office.</p>
+            <p>This the daily experience of all ranks and degrees of people doth ſo manifeſtly prove, that I ſhould not chooſe any longer to inſiſt on it, were it not for the clearing of theſe two things.</p>
+            <p n="1">I. How our hearts can be ſaid to condemn us when we do evil, when as ſuch, as walk contrary one to another in things of mighty
+<pb n="7" facs="tcp:95522:5"/>moment pertaining to God and to their duty, neither, have any regret for what they do, but both ſides inward peace and quiet?</p>
+            <p>Secondly, How our hearts can be ſaid to condemn us, when we do evil, when ſeve<g ref="char:EOLhyphen"/>ral that live in ſcandalous <hi>vices and immora<g ref="char:EOLhyphen"/>lities</hi> are yet ſo far from any trouble of mind about it, they rather make a mock of it?</p>
+            <p>The firſt objection to be anſwered is, how our hearts can be ſaid to condemn us when we do evil, when as ſuch as walk contrary one to another, in things of mighty moment pertaining to God, and to their du<g ref="char:EOLhyphen"/>ty, neither have any regret for what they do, but both ſides inward peace and quiet? This is notorious in matter of fact. What with ſome is Religion, with others is an a<g ref="char:EOLhyphen"/>bomination; what with ſome is Devotion, with others is Superſtition; what with ſome is Duty, with others is abſolutely unlawful; and yet each equally well perſwaded, each equally well ſatisfied in their waves and act<g ref="char:EOLhyphen"/>ings. One of theſe be ſure muſt be in the wrong, and yet their hearts as much aſſure and comfort them, as theirs that are not.
+<pb n="8" facs="tcp:95522:6"/>So that in ſome caſes, it ſeemeth, a man may do evil, and yet his <hi>heart not condemn Him</hi> neither.</p>
+            <p>It is true, in ſuch where it ſelf is deceived and miſtaken it doth not. How is it poſſi<g ref="char:EOLhyphen"/>ble it ſhould? Our hearts are not infallible: by art and education, by company and cu<g ref="char:EOLhyphen"/>ſtom, they may be miſerably abuſed and impoſed upon. In Chriſtendom, whole Kingdoms and Nations; in Kingdoms nu<g ref="char:EOLhyphen"/>merous Sects and Parties (let who will be in the right) are ſad examples of it.</p>
+            <p>What ſhall we ſay then? Doth the heart neglect to do its part in ſuch? No, even where it is thus, it doth its duty to the ut<g ref="char:EOLhyphen"/>moſt of its ability. For tho it may err in judging of the evil, it faileth not to condemn us for what it apprehendeth to be evil, and flyeth in our faces, if we attempt it. In difficult and diſputable caſes, an up<g ref="char:EOLhyphen"/>right heart may be out, as to which is the right and which wrong; but if the man, for any by ends, ſhall forſake that which it tell<g ref="char:EOLhyphen"/>eth him is the right, and eſpouſe the wrong, it certainly reproacheth and tormenteth him for it.</p>
+            <p>
+               <pb n="9" facs="tcp:95522:6"/>
+Let none ſay, if this be all, ſeeing it may be out, as well as in, what need we ſo much regard it? For, if in this caſe we have ho<g ref="char:EOLhyphen"/>neſtly done what we can to inform it, then without ſcruple we may ſecurely follow it.</p>
+            <p>For the reaſon but now ſuggeſted, we are not haſtily and implicitly to follow its ver<g ref="char:EOLhyphen"/>dict; ſo we may be acceſſory to our own de<g ref="char:EOLhyphen"/>luſion: but if we impartially and diligently weigh the ground of our perſwaſion; we do all that is in the power of diſcreet and good men. Then if our hearts ſhould miſguide us, we need not queſtion, but that <hi>he who knoweth whereof we are made</hi> will mercifully forgive us. So that if after that, our hearts condemn us not, we <hi>may have confidence to<g ref="char:EOLhyphen"/>wards God.</hi> And let this ſuffice for the firſt Objection.</p>
+            <p>
+               <hi>Object.</hi> 2. The other is, how our hearts can be ſaid to condemn us when we do evil; when as many who live in ſcandalous vices and immoralities, are ſo far from any di<g ref="char:EOLhyphen"/>ſturbance of mind, they rather make a mock of it? We read of ſome whoſe <hi>Conſciences were ſeared with a hot iron:</hi> of others,<note place="margin">2 <hi>Tim.</hi> 4.2.</note> who
+<pb n="10" facs="tcp:95522:7"/>being <hi>paſt feeling,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 4.19.</note> 
+               <hi>had given themſelves over to laſciviouſneſs:</hi> and if we did not, we live in an age can ſhow us ſuch, who go on in wayes of groſs and palpable wickedneſs, with an uninterrupted ſanguine ſecurity, and are not in trouble as other men.</p>
+            <p>It is not to be denyed, but that too oft it is ſo; but the queſtion is how ſuch per<g ref="char:EOLhyphen"/>ſons come to be ſo? Were they ſo alwayes? No, it was time and long habit brought them to this, they did not preſently arrive to it. <hi>Solomon</hi> deſcribing the common Har<g ref="char:EOLhyphen"/>lot, telleth us <hi>She eateth and wipeth her mouth and ſaith I have done no wickedneſs:</hi> Having uſed her ſelf to that courſe of life, ſhe was ſo loſt to all ſenſe of virtue and honour as to make nothing of it. But in what a diffe<g ref="char:EOLhyphen"/>rent manner doth innocent <hi>Thamer</hi> reſent but an immodeſt ſollicitation? <hi>And I whether ſhall I cauſe my ſhame to go!</hi>
+            </p>
+            <p>It is nothing but cuſtom and oft repeti<g ref="char:EOLhyphen"/>on, that leſſen our apprehenſions and abate our horrors for ill actions. Great ſins of any kind, like the Indian ſmoke, tho by degrees people may ſo inure themſelves to it they cannot forbear it, make every one ſick at
+<pb n="11" facs="tcp:95522:7"/>the firſt time of their taking it. O what ſtruglings and averſions are there before! what commotions and inquieties afterwards! They who have got over theſe, and conque<g ref="char:EOLhyphen"/>red them, cannot but acknowledge them<g ref="char:EOLhyphen"/>ſelves have ſometimes felt them. Yes, and before they go out of the world in all pro<g ref="char:EOLhyphen"/>bability will again Conſcience, tho, like <hi>Abi<g ref="char:EOLhyphen"/>gail,</hi> it ſaith nothing leſs or more while the <hi>wine is in the man,</hi> while intoxicated with the ſtrength and fulneſs of temptations; when it findeth him come to himſelf and ſo<g ref="char:EOLhyphen"/>ber, in retirement, in affliction, in danger, in ſickneſs, then it will take the opportunity to tell him his own, and make him hear of it. It is a worm that never dieth; tho it be trod upon, at one time or other it will turn again, and gnaw the man that ſerveth it ſo. Our hearts are <hi>phyſically</hi> good, tho not <hi>mo<g ref="char:EOLhyphen"/>rally:</hi> tho they delight in the ſin, they can<g ref="char:EOLhyphen"/>not avoid being diſturbed at it; tho they contribute to it, yet ſo it is (witneſs all our experience) they condemn us for it.</p>
+            <p>This is the firſt thing we are here in<g ref="char:EOLhyphen"/>formed of, that we cannot but diſapprove of our ſelves when we take to, and go on
+<pb n="12" facs="tcp:95522:8"/>in any ſinful courſe. Taking that therefore now for granted, let us proceed to conſider the conſequences of it. However at preſent it may be hectored and outbraved, deſpiſed and made light of; it concerneth us ſeriouſly to mind it. The thing doth not end here, there is another-gueſs-one than our hearts, that obſerveth and is diſpleaſed alſo, <hi>God him<g ref="char:EOLhyphen"/>ſelf,</hi> who confirmeth the Sentence and <hi>con<g ref="char:EOLhyphen"/>demneth</hi> us too.</p>
+            <p>This is the truth that is here aſſerted in the other part of the Text which I am now to ſpeak to, that they whoſe hearts do thus condemn them, in that ſtate can expect no<g ref="char:EOLhyphen"/>thing but to be condemned of God alſo, <hi>He is greater than our hearts and Knoweth all things.</hi>
+            </p>
+            <p>It is not ſaid by the Apoſtle <hi>Syllabically</hi> if our heart condemn us, God will condemn us too: but it is at leaſt <hi>Equivalently;</hi> by an expreſſion, in which inſtead of ſuch af<g ref="char:EOLhyphen"/>firmation, is elegantly couched the reaſon of it. God <hi>is greater than our hearts and Knoweth all things.</hi>
+            </p>
+            <p>A judicious interpreter looketh upon the former words as a Rhetorical <hi>apo<g ref="char:EOLhyphen"/>ſiopeſis. If our heart condemn us!</hi> a broken
+<pb n="13" facs="tcp:95522:8"/>exclamation of aſtoniſhment at the dange<g ref="char:EOLhyphen"/>rouſneſs of ſuch a condition, to be ſup<g ref="char:EOLhyphen"/>plyed with ſome ſuch thoughts as theſe, <hi>what is then like to become of us when God ſhall enter into judgment with us!</hi> If we <hi>cannot anſwer our doings to our ſelves, how ſhall we be able to anſwer them before him!</hi> If our <hi>own Spirits frown on us and upbraid us, how ſhall we be able to look on him who is of purer eyes than to behold iniquity!</hi>
+            </p>
+            <p>And tho neither the vulgar nor we have tranſlated it, becauſe in ſeveral Greek manuſcripts there is none of it, yet the common Copies before theſe later words put <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for: <hi>For God is greater than our hearts, and knoweth all things.</hi> And ſo they contain three arguments for a ſerious regard to the rebukes and convictions of our own Conſciences, to make us ſenſible that if theſe be offended with us, God is ſo much more.</p>
+            <p>The firſt is taken from his <hi>Being,</hi> He is God.</p>
+            <p>The ſecond from his <hi>Power, He is greater than our hearts.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:95522:9"/>
+The third from his <hi>Omniſcience, He know<g ref="char:EOLhyphen"/>eth all things.</hi>
+            </p>
+            <p>The firſt Argument here hinted for it, is taken from his <hi>Being,</hi> He is <hi>God. God</hi> whoſe <hi>Deputies</hi> our hearts are, and whoſe mind they ſpeak. Theſe would not diſturb or threaten us in the purſuit of any of our na<g ref="char:EOLhyphen"/>tural appetites did not he commiſſion them. So that I may ſay of their verdict, what the Evangeliſt doth of <hi>Caiaphas</hi>'s, <hi>this ſpeak they not of themſelves but propheſie.</hi> It is not their own doings, but <hi>the word is in our hearts as a burning fire ſhut up in our bones, and they are weary of forbearing<g ref="char:punc">▪</g>
+               </hi> Now who hath power enough to do this? to make our ſelves fall foul upon our ſelves, but God only?</p>
+            <p>I grant in ſome particular caſes, other things may do it: an error, a diſeaſe may ſometimes be ſufficient, and put the heart upon <hi>condemning</hi> when God doth <hi>not.</hi> We ſee it in ſome weak and melancho<g ref="char:EOLhyphen"/>ly perſons, who in the bitterneſs of their ſouls, cry out that they are <hi>caſtaways, paſt the day of Grace, &amp;c.</hi> whom (if they deal ſincere<g ref="char:EOLhyphen"/>ly in the grounds of their complaint, and
+<pb n="15" facs="tcp:95522:9"/>ſay all) we may well <hi>hope better things</hi> of. But this is <hi>rare and accidental,</hi> where it is <hi>univerſal</hi> there muſt be more than ſo in it. And ſo it is with men about things ma<g ref="char:EOLhyphen"/>terially <hi>moral,</hi> it is not the caſe of here and there <hi>one,</hi> but of every one to be ſo affect<g ref="char:EOLhyphen"/>ed. <hi>Parthians and Medes and Elamites, the dwellers in Meſopotamia and Judaea and Cappa<g ref="char:EOLhyphen"/>docia, &amp;c. Jews</hi> and <hi>Gentiles, Chriſtians</hi> and <hi>Heathens, Ancient</hi> and <hi>Modern, Civil</hi> and <hi>Barbarous,</hi> have all the ſame ſentiments. Here the whole world is of one language, and do as much agree about what is <hi>vertu<g ref="char:EOLhyphen"/>ous</hi> and <hi>vicious,</hi> what is <hi>good</hi> and <hi>evil,</hi> as what is <hi>clean</hi> and <hi>foul,</hi> what is <hi>ſweet</hi> and <hi>bitter.</hi> They ſhow the work <hi>of the Law written in their hearts, their Conſciences alſo bearing wit<g ref="char:EOLhyphen"/>neſs, and their thoughts either accuſing or elſe excuſing them.</hi>
+            </p>
+            <p>Now who can write there in ſuch man<g ref="char:EOLhyphen"/>ner upon all, but only he who hath created all? This is that which the Jewiſh Doctors mean by their <hi>ſeparate intelligence,</hi> the anci<g ref="char:EOLhyphen"/>ent Schoolmen by their <hi>Intellectus agens, Adam de Moriſco</hi> by <hi>Elias</hi>'s Raven, when they
+<pb n="16" facs="tcp:95522:10"/>ſpeak of the <hi>manifeſtation of the Law of Na<g ref="char:EOLhyphen"/>ture:</hi> they are but ſo many affected obſcure expreſſions to ſignifie that it is from the <hi>God of Heaven.</hi> And if it be he, we may be ſure he doth not <hi>uſe lightneſs,</hi> his <hi>word ſhall not be yea and nay;</hi> he will not ſay one thing to men in this world, and the contra<g ref="char:EOLhyphen"/>ry in that which is to come; but what he <hi>condemneth</hi> by our <hi>hearts</hi> here, he will <hi>con<g ref="char:EOLhyphen"/>demn</hi> by <hi>himſelf</hi> there. So that if theſe con<g ref="char:EOLhyphen"/>demn us, as long as we go on in theſe things, and do not reform, we have no rea<g ref="char:EOLhyphen"/>ſon to imagine that God will not deal with us in the ſame manner. That is the firſt ar<g ref="char:EOLhyphen"/>gument intimated for the proof of it, taken from his <hi>Being,</hi> He is <hi>God. God</hi> who now ſetteth the heart on work, and teacheth it to do ſo.</p>
+            <p>The ſecond Argument he uſeth for it, is taken from his <hi>Power, He is greater than our hearts.</hi> If we could ſtruggle ſo, as to bear, or break through the ſharpeſt ſtings of theſe, yet his indignation will be heavier and more intollerable.</p>
+            <p>
+               <pb n="17" facs="tcp:95522:10"/>
+How light ſoever they may make of it, whoſe own are yet aſleep, to be under but the poſitive <hi>condemnation</hi> of <hi>Conſcience,</hi> is of it ſelf a deplorable and very fearful circum<g ref="char:EOLhyphen"/>ſtance. How comfortleſs and unhappy do we ſee this thing alone can make men, when it ſeizeth their <hi>awakened</hi> Souls, and throughly poſſeſſeth their imagination! How doth a dart ſtrike through their liver, and a fire burn in their bowels! How doth it drink up all their moiſture, and make their faces gather paleneſs! How doth it break their reſtleſs bones, and ſometimes quite overturn their Underſtandings! Racks are more tolerable, Death it ſelf hath been often flown to, by them that were under it, as the more eligi<g ref="char:EOLhyphen"/>ble.</p>
+            <p>I mention not theſe outragious violences of Spirit, as things either <hi>neceſſary</hi> or <hi>commen<g ref="char:EOLhyphen"/>dable</hi> (as ſome would make them) in the <hi>converſion of a Sinner.</hi> No they proceed not from any ſuch cauſes as ſhould deſerve it. <hi>Ig<g ref="char:EOLhyphen"/>norance,</hi> or <hi>Deſpair, Ignorance</hi> of the nature of the Goſpel Covenant, or <hi>Deſpair</hi> of what it promiſeth to the Sinner when he repenteth,
+<pb n="18" facs="tcp:95522:11"/>being the uſual wombs that bear them and Paps that <hi>give</hi> them ſuck. All that I hint it for, is only to ſhow you what a <hi>Hell</hi> it is to be but under the <hi>Condemnation</hi> of our own <hi>hearts.</hi>
+            </p>
+            <p>But let no man fancy(as ſome perverſely have been broaching) that this is the <hi>only Hell.</hi> As terrible as this is, there is the ſame difference between it, and that which ſhall come after; as between the <hi>ſentence</hi> pronoun<g ref="char:EOLhyphen"/>ced againſt the <hi>Malefactor,</hi> which ſometimes doth not ſo much as <hi>change his Conntenance,</hi> and the <hi>execution</hi> that <hi>taketh away his</hi> life. When <hi>Conſcience</hi> tormenteth men ſo, it is not by any proper <hi>efficiency</hi> of its own, by the exerciſe of any <hi>natural power:</hi> For it is but an <hi>opinion or judgment</hi> of our ſtate as to eternity, that it is <hi>dangerous and damnable:</hi> When it hath repreſented this, it hath not more that it can do, But <hi>God is greater.</hi> What that only threatneth, he fulfilleth: What that only maketh us fear, he will make us feel. Now he being provoked by theſe very things our <hi>hearts</hi> are, we have great reaſon to be con<g ref="char:EOLhyphen"/>cerned if <hi>they condemn us,</hi> tho at preſent we
+<pb n="19" facs="tcp:95522:11"/>ſuffer not any alteration by it: For if we go hence in that ſtate, <hi>God will condemn us too:</hi> and then we ſhall not come off ſo, <hi>He is great<g ref="char:EOLhyphen"/>er than our hearts.</hi> And that is the ſecond <hi>Ar<g ref="char:EOLhyphen"/>gument.</hi>
+            </p>
+            <p>The laſt by which he goeth about to prove the importance of our <hi>hearts condemning us,</hi> is taken from Gods <hi>omniſcience, He Knoweth all things.</hi> Our hearts know more ill of us, than all the world beſides, but he much more than they. <hi>None knoweth the things of a man ſave the Spirit of man that is in him,</hi> none knoweth ſo much of them as that doth, but yet there are abundance of things, that even that for want of minding or memory, knoweth but imperfectly and confuſedly.</p>
+            <p>
+               <hi>But there is not a word in our tongue but he knoweth it altogether,</hi> nor a <hi>thought</hi> in <hi>our heart,</hi> that he <hi>underſtandeth not a<g ref="char:EOLhyphen"/>far of.</hi> He <hi>diſcovereth</hi> much ſin by us we do not <hi>obſerve:</hi> he <hi>remembreth</hi> much ſin by us we have <hi>forgotten:</hi> and ſo knoweth more cauſe for our <hi>condemnation</hi> than our hearts can poſſibly repreſent to us. And therefore if they know enough by us to con<g ref="char:EOLhyphen"/>demn
+<pb n="20" facs="tcp:95522:12"/>us, we cannot but conclude <hi>God</hi> doth much more.</p>
+            <p>Our <hi>hearts</hi> in their evidence againſt us, in matter of-fact we may be ſure ſpeak nothing but the truth, but they are not able to ſpeak the whole truth. <hi>Who can underſtand his errors?</hi> and therefore if they out of their broken notes draw up ſuch an enditement a<g ref="char:EOLhyphen"/>gainſt us, as is ſufficient eternally to undo and deſtroy us; how ſhall we be able to ſtand before him, to whom <hi>all things are naked and bare?</hi>
+            </p>
+            <p>Our hearts may <hi>acquit</hi> us, and yet it is not impoſſible but God may <hi>condemn</hi> us. So St. <hi>Paul</hi> thought <hi>I know nothing by my ſelf</hi> (ſaith he) my own heart doth not accuſe me,<note place="margin">1. Cor. 4.4.</note> 
+               <hi>yet am I not hereby juſtified,</hi> I may be miſtaken <hi>he that judgeth me</hi> (that is ultimately and unerringly) <hi>is the Lord.</hi> And if when our own hearts <hi>acquit</hi> us, it is not impoſſible but God may <hi>condemn</hi> us, ſurely if our hearts <hi>condemn</hi> us we have no pretence for the preſumption that God will <hi>acquit</hi> us.</p>
+            <p>When a man is condemned by a <hi>Judge,</hi> who was his <hi>friend</hi> or near <hi>relation</hi> every one
+<pb n="21" facs="tcp:95522:12"/>will conclude the thing was plain, and he deſerved it certainly. Here the <hi>Judge</hi> is not only our <hi>friend</hi> but our very <hi>ſelves.</hi> We are very apt to think well of our <hi>ſelves,</hi> that we are <hi>ſincere, Penitents, Believers;</hi> when it may be there is no reaſon for it: but if ever we think ill of our ſelves, that we are <hi>hypocri<g ref="char:EOLhyphen"/>tical, prophane, atheiſtical,</hi> we may conclude there is a great deal of reaſon for that; more always than appeareth to <hi>us,</hi> and all this is open to the eye of <hi>God:</hi> Upon this account the Apoſtle here reckoneth there is ſo much danger of him, whoſe <hi>heart condemneth him,</hi> becauſe that <hi>God is greater than our heart, and knoweth all things.</hi>
+            </p>
+            <p>This is the ſenſe of the words I have read to you; which being delivered by way of <hi>ſuppoſition,</hi> with an <hi>(If)</hi> a thing that may be, or may not be. I am unwilling to diſ<g ref="char:EOLhyphen"/>miſs you, while I have preſſed you to conſi<g ref="char:EOLhyphen"/>der of it, every one as to his own particular.</p>
+            <p>It cannot reaſonably be imagined, that we ſhould all of us be in one and the ſame ſtate: there muſt needs be of both ſorts among us. And as I doubt not but there
+<pb n="22" facs="tcp:95522:13" rendition="simple:additions"/>may be ſeveral, whoſe hearts teſtifie for them and condemn them not: ſo, it muſt be a very extraordinary Aſſembly, where there is not cauſe enough to fear, that there are many, whoſe hearts cannot but riſe up againſt them, and do. None can ſay any thing to this but your ſelves, and what can be more becoming you, at this time eſpecially, when ſome of you this morning already have, others are going to, <hi>eat of that Bread, and drink of that Cup,</hi> than carefully and ſtrictly examine your ſelves about it.</p>
+            <p>
+               <hi>Lorius</hi> hath a fancy, that when our Savi<g ref="char:EOLhyphen"/>our ſtooped down and wrote on the ground, (while the <hi>Scribes</hi> and <hi>Phariſees</hi> were asking him the queſtion, What ſhould be done to the Woman taken in adultery) that he did it ſo miraculouſly, that each of her accuſers, when they looked upon it, read all their own particular ſins there; and that this was that which made them ſlink away ſo, one by one abaſhtd and out of countenance. What he imagineth they did by Miracle, every one of us (if we will) moy do without one. If we would
+<pb n="23" facs="tcp:95522:13"/>look but where we ought, every one into our own boſomes, there we may ſee, if not each diſtinct fact that we have done, yet however the great and common habits in which we live. O ſearch and ſee then, <hi>commune with your own hearts and be ſtill,</hi> awfully mind the report theſe make to you.</p>
+            <p>It is ſaid of <hi>Herod,</hi> Luke 3.20. that <hi>to all the evil that he had done, he added yet this above all, that he ſhut up John in priſon. John</hi> was he that reproved him for his vices, he that admoniſhed him of his ſin, he that called him to repentance: and to ſhut him up in priſon, is called an <hi>adding to his evil above all.</hi> What ever your actions have been any of you, whatſoever the courſe of your lives, to ſhut your eyes againſt <hi>this burn<g ref="char:EOLhyphen"/>ing and ſhining light;</hi> to ſtop your ears at this <hi>voyce crying within you;</hi> to <hi>detain the truth</hi> which this telleth you, in <hi>unrighteouſ<g ref="char:EOLhyphen"/>neſs,</hi> is to be guilty of a ſin much like to that. If we will not hear thee, O thou vice-gerent of God within us: If we will not hear thee, O thou Guardian Angel of
+<pb n="24" facs="tcp:95522:14"/>our better part, when thou telleſt us our faults, between thee and us alone, we ſhall be worſe to thee than even Heathens and Publicans.</p>
+            <p>But of all that neglect or refuſe to take notice of it, I muſt by no means omit to remember you, that there are none who do it with ſo much danger to themſelves as you whom the providence of God hath placed in higher ſtations, and raiſed above the com<g ref="char:EOLhyphen"/>mon rank of men. This is all the Monitor that many ſuch as you, if you fall into temptations, can rely upon. Your quality and condition of life maketh it more than ordinary difficult, for them whoſe Office it is to <hi>watch over your ſouls</hi> to admoniſh you; and there are ſeveral caſes wherein your <hi>ſervants for Jeſus ſake</hi> can ſcarce, with<g ref="char:EOLhyphen"/>out exceeding their Commiſſion, be parti<g ref="char:EOLhyphen"/>cular. So that if you gag this faithful Of<g ref="char:EOLhyphen"/>ficer within, and will not ſuffer him to ſpeak, you will be in greater hazard of miſcarry<g ref="char:EOLhyphen"/>ing than thoſe in a meaner <hi>ſtation.</hi> But him you have always with you, which will in any wiſe rebuke you, and not
+<pb n="25" facs="tcp:95522:14"/>ſuffer ſin upon you, but as there is occaſion ſay ſuch things to you, as no other either may, or can.</p>
+            <p>To end then, <hi>Hear this all ye people, give ear all the Inhabitants of the Earth, both high and low, rich and poor together.</hi> When ever you find this checking, adviſing, warning you, by all the <hi>terrors of the Lord I would perſwade,</hi> by all the kindneſs you have for your ſelves I would beſeech you to give an ear to it. When it <hi>ſmiteth</hi> you count it for a <hi>kindneſs,</hi> when it reproveth you, be thankful as for a bleſſing. Inſtead of accoſt<g ref="char:EOLhyphen"/>ing it as <hi>Ahab</hi> did <hi>Elijah, Haſt thou found me, O mine Enemy,</hi> ſalute it as <hi>David</hi> did <hi>Abigail, Bleſſed be the Lord God of Iſrael that ſent thee this day to meet me.</hi> It really de<g ref="char:EOLhyphen"/>ſerveth it at your hands, It's deſign is not to <hi>torment you before the time,</hi> but to <hi>ſave you from the wrath to come:</hi> receive it then accordingly; not as a <hi>Spy</hi> or a buſie <hi>In<g ref="char:EOLhyphen"/>former,</hi> but as an <hi>Apoſtle, as an Angel of God.</hi> So treating it, you will have praiſe of the ſame at laſt, and rejoyce in its
+<pb n="26" facs="tcp:95522:15"/>teſtimony. By this way you may ſo improve their <hi>judging you,</hi> as to pre<g ref="char:EOLhyphen"/>vent <hi>your being judged by the Lord,</hi> and make their <hi>condemning</hi> you now a means of God's <hi>acquitting</hi> you in the Great Day.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95522:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
